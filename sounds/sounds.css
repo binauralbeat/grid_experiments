@@ -298,7 +298,7 @@ body .container .play-list .play-list-row:after {
     clip: rect(20px, 40px, 20px, 40px); */
     object-fit: fill;
     width: 1055px;
-    border-radius: 55px;
+    border-radius: 62px;
 }
 
 .vid {
